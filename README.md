@@ -13,3 +13,5 @@
 ![AltText](https://github.com/naufal025/CSS/blob/master/6.PNG "CSS Navigation Bar")
 # CSS Text in Multiple Column
 ![AltText](https://github.com/naufal025/CSS/blob/master/7.PNG "CSS Multiple column")
+# CSS Image Gallery
+![AltText](https://github.com/naufal025/CSS/blob/master/8.PNG "CSS Image Gallery")
